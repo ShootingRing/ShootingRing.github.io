@@ -9,8 +9,29 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>神的随心所欲主义~</description>
-    <pubDate>Sat, 13 Nov 2021 13:44:11 GMT</pubDate>
+    <pubDate>Sun, 14 Nov 2021 01:47:16 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>try</title>
+      <link>http://example.com/2021/11/14/try/</link>
+      <guid>http://example.com/2021/11/14/try/</guid>
+      <pubDate>Sun, 14 Nov 2021 01:35:21 GMT</pubDate>
+      
+      <description>&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;p&gt;我的第一篇&lt;code&gt;hexo&lt;/code&gt;博客文章！&lt;/p&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>我的第一篇<code>hexo</code>博客文章！</p><span id="more"></span><p>Hi!!My Blog~</p><img src="/.com//11/14/try/mafu.png" class title="This is an test image">]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/trying/">trying</category>
+      
+      
+      <comments>http://example.com/2021/11/14/try/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
