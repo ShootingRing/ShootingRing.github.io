@@ -9,8 +9,34 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>神的随心所欲主义~</description>
-    <pubDate>Sun, 14 Nov 2021 03:27:44 GMT</pubDate>
+    <pubDate>Mon, 15 Nov 2021 01:58:50 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>忙忙碌碌的一天</title>
+      <link>http://example.com/2021/11/15/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E4%B8%80%E5%A4%A9/</link>
+      <guid>http://example.com/2021/11/15/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E4%B8%80%E5%A4%A9/</guid>
+      <pubDate>Mon, 15 Nov 2021 01:56:54 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;早上六点半起床，困得睁不开眼睛&lt;/p&gt;
+&lt;p&gt;吃了饭去上课，为什么今天浑身不爽啊kuso&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>早上六点半起床，困得睁不开眼睛</p><p>吃了饭去上课，为什么今天浑身不爽啊kuso</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/diary/">diary</category>
+      
+      
+      <comments>http://example.com/2021/11/15/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E4%B8%80%E5%A4%A9/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>try</title>
