@@ -9,8 +9,33 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>神的随心所欲主义~</description>
-    <pubDate>Tue, 16 Nov 2021 10:43:44 GMT</pubDate>
+    <pubDate>Tue, 16 Nov 2021 13:01:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>八方旅人</title>
+      <link>http://example.com/2021/11/16/%E5%85%AB%E6%96%B9%E6%97%85%E4%BA%BA/</link>
+      <guid>http://example.com/2021/11/16/%E5%85%AB%E6%96%B9%E6%97%85%E4%BA%BA/</guid>
+      <pubDate>Tue, 16 Nov 2021 12:33:15 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;img src=&quot;https://c1.im5i.com/2021/11/16/JZfkm.png&quot; alt=&quot;JZfkm.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;​                                                            </description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p><img src="https://c1.im5i.com/2021/11/16/JZfkm.png" alt="JZfkm.png"></p><p>​                                                                                 <code>可爱的特蕾莎</code></p><p><img src="https://c1.im5i.com/2021/11/16/JZrls.png" alt="JZrls.png"></p><p>​                                                                                        <code>神官姐妹</code></p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/game/">game</category>
+      
+      
+      <comments>http://example.com/2021/11/16/%E5%85%AB%E6%96%B9%E6%97%85%E4%BA%BA/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>忙忙碌碌的一天</title>
