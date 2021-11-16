@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>神的随心所欲主义~</description>
-    <pubDate>Mon, 15 Nov 2021 01:58:50 GMT</pubDate>
+    <pubDate>Tue, 16 Nov 2021 10:35:14 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -22,12 +22,16 @@
         
       <description>&lt;p&gt;早上六点半起床，困得睁不开眼睛&lt;/p&gt;
 &lt;p&gt;吃了饭去上课，为什么今天浑身不爽啊kuso&lt;/p&gt;
+&lt;p&gt;晚上心情挺好的=-=&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;第二天:&lt;/p&gt;
+&lt;p&gt;今天心情特别好，好耶！&lt;/p&gt;
 </description>
         
       
       
       
-      <content:encoded><![CDATA[<p>早上六点半起床，困得睁不开眼睛</p><p>吃了饭去上课，为什么今天浑身不爽啊kuso</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>早上六点半起床，困得睁不开眼睛</p><p>吃了饭去上课，为什么今天浑身不爽啊kuso</p><p>晚上心情挺好的=-=</p><hr><p>第二天:</p><p>今天心情特别好，好耶！</p>]]></content:encoded>
       
       
       
