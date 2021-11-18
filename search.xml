@@ -107,9 +107,9 @@
     
     
     <entry>
-      <title>资源</title>
-      <link href="/resources/index.html"/>
-      <url>/resources/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -118,9 +118,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>资源</title>
+      <link href="/resources/index.html"/>
+      <url>/resources/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
