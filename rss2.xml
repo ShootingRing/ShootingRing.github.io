@@ -9,8 +9,34 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>神的随心所欲主义~</description>
-    <pubDate>Tue, 16 Nov 2021 13:01:42 GMT</pubDate>
+    <pubDate>Thu, 18 Nov 2021 05:49:34 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>日记 2021-11-18</title>
+      <link>http://example.com/2021/11/18/diary-2021-11-18/</link>
+      <guid>http://example.com/2021/11/18/diary-2021-11-18/</guid>
+      <pubDate>Thu, 18 Nov 2021 05:48:09 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;今天买的任天堂LABO到啦~&lt;/p&gt;
+&lt;p&gt;超级开心ww&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>今天买的任天堂LABO到啦~</p><p>超级开心ww</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/diary/">diary</category>
+      
+      
+      <comments>http://example.com/2021/11/18/diary-2021-11-18/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>八方旅人</title>
