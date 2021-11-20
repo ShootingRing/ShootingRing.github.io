@@ -96,11 +96,11 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>资源</title>
+      <link href="/resources/index.html"/>
+      <url>/resources/index.html</url>
       
-        <content type="html"><![CDATA[<p><strong>菜鸡第一次整了个个人博客</strong></p><p>整了一个下午+一个上午终于弄好了(哭泣</p><blockquote><p>GREAT!<code>好耶</code></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<p>我的B站:<a href="https://space.bilibili.com/111080408">https://space.bilibili.com/111080408</a></p><p>欢迎大家关注呀(=^=)</p>]]></content>
       
     </entry>
     
@@ -118,9 +118,9 @@
     
     
     <entry>
-      <title>资源</title>
-      <link href="/resources/index.html"/>
-      <url>/resources/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -129,11 +129,11 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><strong>菜鸡第一次整了个个人博客</strong></p><p>整了一个下午+一个上午终于弄好了(哭泣</p><blockquote><p>GREAT!<code>好耶</code></p></blockquote>]]></content>
       
     </entry>
     
