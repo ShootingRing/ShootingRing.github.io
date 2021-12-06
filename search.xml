@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>高数复习笔记-Part.1</title>
+      <link href="/2021/12/06/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-Part-1/"/>
+      <url>/2021/12/06/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-Part-1/</url>
+      
+        <content type="html"><![CDATA[<p>①反函数求导法:</p><p>​    把y=f(x)变成x=g(y)</p><p>比如:<br>$$<br>y = e^x → x = ln(y)<br>$$<br>再求导可以得到<br>$$<br>x’ = 1/y = 1/e^x<br>$$<br>又因为<br>$$<br>x’ = dx/dy<br>\<br>y’ = dy/dx<br>$$<br>所以<br>$$<br>x’ = 1/y’<br>$$<br>②常用n阶导函数公式:</p><p><img src="https://c1.im5i.com/2021/12/06/cAPRt.png" alt="cAPRt.png"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Study </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>日记 2021-11-18</title>
       <link href="/2021/11/18/diary-2021-11-18/"/>
       <url>/2021/11/18/diary-2021-11-18/</url>
@@ -96,11 +115,11 @@
     
     
     <entry>
-      <title>资源</title>
-      <link href="/resources/index.html"/>
-      <url>/resources/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<p>我的B站:<a href="https://space.bilibili.com/111080408">https://space.bilibili.com/111080408</a></p><p>欢迎大家关注呀(=^=)</p>]]></content>
+        <content type="html"><![CDATA[<p><strong>菜鸡第一次整了个个人博客</strong></p><p>整了一个下午+一个上午终于弄好了(哭泣</p><blockquote><p>GREAT!<code>好耶</code></p></blockquote>]]></content>
       
     </entry>
     
@@ -129,11 +148,11 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>资源</title>
+      <link href="/resources/index.html"/>
+      <url>/resources/index.html</url>
       
-        <content type="html"><![CDATA[<p><strong>菜鸡第一次整了个个人博客</strong></p><p>整了一个下午+一个上午终于弄好了(哭泣</p><blockquote><p>GREAT!<code>好耶</code></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<p>我的B站:<a href="https://space.bilibili.com/111080408">https://space.bilibili.com/111080408</a></p><p>欢迎大家关注呀(=^=)</p>]]></content>
       
     </entry>
     

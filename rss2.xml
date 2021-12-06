@@ -9,8 +9,34 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>神的随心所欲主义~</description>
-    <pubDate>Thu, 18 Nov 2021 05:49:34 GMT</pubDate>
+    <pubDate>Mon, 06 Dec 2021 15:24:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>高数复习笔记-Part.1</title>
+      <link>http://example.com/2021/12/06/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-Part-1/</link>
+      <guid>http://example.com/2021/12/06/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-Part-1/</guid>
+      <pubDate>Mon, 06 Dec 2021 14:20:57 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;①反函数求导法:&lt;/p&gt;
+&lt;p&gt;​    把y=f(x)变成x=g(y)&lt;/p&gt;
+&lt;p&gt;比如:&lt;br&gt;$$&lt;br&gt;y = e^x → x = ln(y)&lt;br&gt;$$&lt;br&gt;再求导可以得到&lt;br&gt;$$&lt;br&gt;x’ = 1/y = 1/e^x&lt;br&gt;$$&lt;br&gt;又因为&lt;br&gt;$</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>①反函数求导法:</p><p>​    把y=f(x)变成x=g(y)</p><p>比如:<br>$$<br>y = e^x → x = ln(y)<br>$$<br>再求导可以得到<br>$$<br>x’ = 1/y = 1/e^x<br>$$<br>又因为<br>$$<br>x’ = dx/dy<br>\<br>y’ = dy/dx<br>$$<br>所以<br>$$<br>x’ = 1/y’<br>$$<br>②常用n阶导函数公式:</p><p><img src="https://c1.im5i.com/2021/12/06/cAPRt.png" alt="cAPRt.png"></p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/Study/">Study</category>
+      
+      
+      <comments>http://example.com/2021/12/06/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-Part-1/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>日记 2021-11-18</title>

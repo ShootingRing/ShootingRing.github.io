@@ -22,17 +22,22 @@
     var CONFIG = {"hostname":"example.com","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="神的随心所欲主义~">
-<meta property="og:type" content="website">
-<meta property="og:title" content="THE ROOMS FOR WOWring！">
-<meta property="og:url" content="http://example.com/tags/diary/index.html">
+  <meta name="description" content="①反函数求导法: ​    把y&#x3D;f(x)变成x&#x3D;g(y) 比如:$$y &#x3D; e^x → x &#x3D; ln(y)$$再求导可以得到$$x’ &#x3D; 1&#x2F;y &#x3D; 1&#x2F;e^x$$又因为$$x’ &#x3D; dx&#x2F;dy\y’ &#x3D; dy&#x2F;dx$$所以$$x’ &#x3D; 1&#x2F;y’$$②常用n阶导函数公式:">
+<meta property="og:type" content="article">
+<meta property="og:title" content="高数复习笔记-Part.1">
+<meta property="og:url" content="http://example.com/2021/12/06/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-Part-1/index.html">
 <meta property="og:site_name" content="THE ROOMS FOR WOWring！">
-<meta property="og:description" content="神的随心所欲主义~">
+<meta property="og:description" content="①反函数求导法: ​    把y&#x3D;f(x)变成x&#x3D;g(y) 比如:$$y &#x3D; e^x → x &#x3D; ln(y)$$再求导可以得到$$x’ &#x3D; 1&#x2F;y &#x3D; 1&#x2F;e^x$$又因为$$x’ &#x3D; dx&#x2F;dy\y’ &#x3D; dy&#x2F;dx$$所以$$x’ &#x3D; 1&#x2F;y’$$②常用n阶导函数公式:">
 <meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://c1.im5i.com/2021/12/06/cAPRt.png">
+<meta property="article:published_time" content="2021-12-06T14:20:57.000Z">
+<meta property="article:modified_time" content="2021-12-06T15:24:26.983Z">
 <meta property="article:author" content="沃沃圈">
+<meta property="article:tag" content="Study">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://c1.im5i.com/2021/12/06/cAPRt.png">
 
-<link rel="canonical" href="http://example.com/tags/diary/">
+<link rel="canonical" href="http://example.com/2021/12/06/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-Part-1/">
 
 
 <script id="page-configurations">
@@ -40,12 +45,12 @@
   CONFIG.page = {
     sidebar: "",
     isHome : false,
-    isPost : false,
+    isPost : true,
     lang   : 'zh-CN'
   };
 </script>
 
-  <title>标签: diary | THE ROOMS FOR WOWring！</title>
+  <title>高数复习笔记-Part.1 | THE ROOMS FOR WOWring！</title>
   
 
 
@@ -193,77 +198,111 @@
         <div class="content-wrap">
           
 
-          <div class="content tag">
+          <div class="content post posts-expand">
             
 
+    
   
   
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/2021/12/06/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-Part-1/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="沃沃圈">
+      <meta itemprop="description" content="神的随心所欲主义~">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="THE ROOMS FOR WOWring！">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          高数复习笔记-Part.1
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2021-12-06 22:20:57 / 修改时间：23:24:26" itemprop="dateCreated datePublished" datetime="2021-12-06T22:20:57+08:00">2021-12-06</time>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
   
-  <div class="post-block">
-    <div class="posts-collapse">
-      <div class="collection-title">
-        <h2 class="collection-header">diary
-          <small>标签</small>
-        </h2>
-      </div>
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine：</span>
+    
+    <a title="valine" href="/2021/12/06/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-Part-1/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2021/12/06/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-Part-1/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
 
       
-    <div class="collection-year">
-      <span class="collection-header">2021</span>
-    </div>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2021-11-18T13:48:09+08:00"
-              content="2021-11-18">
-          11-18
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2021/11/18/diary-2021-11-18/" itemprop="url">
-            <span itemprop="name">日记 2021-11-18</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2021-11-15T09:56:54+08:00"
-              content="2021-11-15">
-          11-15
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2021/11/15/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E4%B8%80%E5%A4%A9/" itemprop="url">
-            <span itemprop="name">忙忙碌碌的一天</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
+        <p>①反函数求导法:</p>
+<p>​    把y=f(x)变成x=g(y)</p>
+<p>比如:<br>$$<br>y = e^x → x = ln(y)<br>$$<br>再求导可以得到<br>$$<br>x’ = 1/y = 1/e^x<br>$$<br>又因为<br>$$<br>x’ = dx/dy<br>\<br>y’ = dy/dx<br>$$<br>所以<br>$$<br>x’ = 1/y’<br>$$<br>②常用n阶导函数公式:</p>
+<p><img src="https://c1.im5i.com/2021/12/06/cAPRt.png" alt="cAPRt.png"></p>
 
     </div>
-  </div>
-  
-  
-  
 
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/Study/" rel="tag"># Study</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2021/11/18/diary-2021-11-18/" rel="prev" title="日记 2021-11-18">
+      <i class="fa fa-chevron-left"></i> 日记 2021-11-18
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
   
 
 
 
           </div>
           
+    <div class="comments" id="valine-comments"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
