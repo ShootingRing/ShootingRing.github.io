@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>神的随心所欲主义~</description>
-    <pubDate>Mon, 06 Dec 2021 15:24:26 GMT</pubDate>
+    <pubDate>Mon, 06 Dec 2021 15:50:31 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -22,12 +22,15 @@
         
       <description>&lt;p&gt;①反函数求导法:&lt;/p&gt;
 &lt;p&gt;​    把y=f(x)变成x=g(y)&lt;/p&gt;
-&lt;p&gt;比如:&lt;br&gt;$$&lt;br&gt;y = e^x → x = ln(y)&lt;br&gt;$$&lt;br&gt;再求导可以得到&lt;br&gt;$$&lt;br&gt;x’ = 1/y = 1/e^x&lt;br&gt;$$&lt;br&gt;又因为&lt;br&gt;$</description>
+&lt;p&gt;比如:&lt;/p&gt;
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;
+y = e^x → x = ln(y)&lt;/script&gt;&lt;p&gt;再求导可以得到&lt;/p&gt;
+&lt;sc</description>
         
       
       
       
-      <content:encoded><![CDATA[<p>①反函数求导法:</p><p>​    把y=f(x)变成x=g(y)</p><p>比如:<br>$$<br>y = e^x → x = ln(y)<br>$$<br>再求导可以得到<br>$$<br>x’ = 1/y = 1/e^x<br>$$<br>又因为<br>$$<br>x’ = dx/dy<br>\<br>y’ = dy/dx<br>$$<br>所以<br>$$<br>x’ = 1/y’<br>$$<br>②常用n阶导函数公式:</p><p><img src="https://c1.im5i.com/2021/12/06/cAPRt.png" alt="cAPRt.png"></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>①反函数求导法:</p><p>​    把y=f(x)变成x=g(y)</p><p>比如:</p><script type="math/tex; mode=display">y = e^x → x = ln(y)</script><p>再求导可以得到</p><script type="math/tex; mode=display">x' = 1/y = 1/e^x</script><p>又因为</p><script type="math/tex; mode=display">x' = dx/dy\\y' = dy/dx</script><p>所以</p><script type="math/tex; mode=display">x' = 1/y'</script><p>②常用n阶导函数公式:</p><p><img src="https://c1.im5i.com/2021/12/06/cAPRt.png" alt="cAPRt.png"></p>]]></content:encoded>
       
       
       
