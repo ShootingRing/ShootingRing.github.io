@@ -8,7 +8,7 @@
       <link href="/2021/12/06/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-Part-1/"/>
       <url>/2021/12/06/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-Part-1/</url>
       
-        <content type="html"><![CDATA[<p>①反函数求导法:</p><p>​    把y=f(x)变成x=g(y)</p><p>比如:</p><script type="math/tex; mode=display">y = e^x → x = ln(y)</script><p>再求导可以得到</p><script type="math/tex; mode=display">x' = 1/y = 1/e^x</script><p>又因为</p><script type="math/tex; mode=display">x' = dx/dy\\y' = dy/dx</script><p>所以</p><script type="math/tex; mode=display">x' = 1/y'</script><p>②常用n阶导函数公式:</p><p><img src="https://c1.im5i.com/2021/12/06/cAPRt.png" alt="cAPRt.png"></p>]]></content>
+        <content type="html"><![CDATA[<p>①反函数求导法:</p><p>​    把y=f(x)变成x=g(y)</p><p>比如:</p><p>y = e^x → x = ln(y)</p><p>再求导可以得到</p><p>x’ = 1/y = 1/e^x</p><p>又因为</p><p>x’ = dx/dy<br>y’ = dy/dx</p><p>所以</p><p>x’ = 1/y’</p><p>②常用n阶导函数公式:</p><p><img src="https://c1.im5i.com/2021/12/06/cAPRt.png" alt="cAPRt.png"></p><p>③给定导数求原函数的原函数:</p><p>如:f’(x) = x;求∫f(x)dx;</p><p>则f(x) = 1/2*x^2+C1</p><p>∫f(x)dx = 1/2*x^2+C1x+C2</p><p>注意C1不要丢了</p><p>④斜渐近线:</p><p>limx→∞(f(x)/x) = a;(a!=0)</p><p>limx→∞(f(x)-ax) = b;</p><p>则斜渐近线为 y = ax+b;</p>]]></content>
       
       
       
@@ -126,11 +126,11 @@
     
     
     <entry>
-      <title>资源</title>
-      <link href="/resources/index.html"/>
-      <url>/resources/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<p>我的B站:<a href="https://space.bilibili.com/111080408">https://space.bilibili.com/111080408</a></p><p>欢迎大家关注呀(=^=)</p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -148,11 +148,11 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>资源</title>
+      <link href="/resources/index.html"/>
+      <url>/resources/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>我的B站:<a href="https://space.bilibili.com/111080408">https://space.bilibili.com/111080408</a></p><p>欢迎大家关注呀(=^=)</p>]]></content>
       
     </entry>
     
